@@ -11,9 +11,24 @@
       "text": "This is feedback item 2 coming from the backend"
     },
     {
-      "text": "This is feedback item 3 coming from the backend",
+      "text": "This is a new request, same thing here, thought about upping the average",
       "rating": 10,
-      "id": 3
+      "id": 4
+    },
+    {
+      "text": "this is an updated item",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "text": "this is another feedback entry, thought I would up the average",
+      "rating": 9,
+      "id": 6
+    },
+    {
+      "text": "this is one last feedback",
+      "rating": 9,
+      "id": 7
     }
   ]
 }
